@@ -220,6 +220,9 @@ footer p {
 .post h2 {
 	padding-left: 120px;
 }
+.post h3 {
+	padding-left: 0px;
+}
 .post-meta {
 	margin-top: 3px;
 	font-size: 10px;

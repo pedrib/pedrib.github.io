@@ -1,0 +1,11 @@
+---
+layout: page
+title: AGIS Find n' Fix
+---
+
+Many organisations simply do not have the expertise to find security problems, hence why they hire external consultants.
+But what if your developers do not have the experience or necessary knowledge to fix security problems? Or what if you believe a security vulnerability was fixed... only to find the year after that your application is still vulnerable?
+
+### A unique service for startups and SMEs
+We have the expertise to provide a unique find and fix service. We find vulnerabilities in your application, and we provide the code patches and guidance necessary to fix them. We follow up with you to verify if the vulnerabilities have indeed been fixed, and perform re-testing of your application to confirm this.
+

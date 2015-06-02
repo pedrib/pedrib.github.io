@@ -2,18 +2,19 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<title>Ariop Documentiua Mokabili | {{ page.title }}</title>
+	<title>Agile Information Security | {{ page.title }}</title>
 	<link rel="stylesheet" href="/css/master.css?{{ site.time | date: "%Y%m%d%H%M%S" }}" />
 	<script src="/js/master.js?{{ site.time | date: "%Y%m%d%H%M%S" }}"></script>
 	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-172060-6']);
-		_gaq.push(['_trackPageview']);
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-		})();
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-63676978-1', 'auto');
+	  ga('send', 'pageview');
+
 	</script>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
@@ -21,13 +22,13 @@
 <body>
 	<header>
 		<div class="container">
-			<p id="logo"><a onmouseover="this.innerHTML = 'Enabling secure digital business.'" onmouseout="this.innerHTML = 'Ariop Documentiua Mokabili'" href="/"">Ariop Documentiua Mokabili</a></p>
+			<p id="logo"><a onmouseover="this.innerHTML = 'Enabling secure digital business.'" onmouseout="this.innerHTML = 'Agile Information Security'" href="/index.html">Agile Information Security</a></p>
 			<nav>
 				<ul class="clearfix">
 					<li{% if page.title == 'Contact' %} class="selected"{% endif %}>
 						<a href="/contact.html">Contact</a></li>
-					<li{% if page.title == 'Blog' %} class="selected"{% endif %}>
-						<a href="/blog/index.html">Blog</a></li>
+					<!-- <li{% if page.title == 'Blog' %} class="selected"{% endif %}>
+						<a href="/blog/index.html">Blog</a></li> -->
 					<li{% if page.title == 'Research' %} class="selected"{% endif %}>
 						<a href="/research.html">Research</a></li>
 					<li{% if page.title == 'Services' %} class="selected"{% endif %}>
@@ -46,15 +47,15 @@
 				<div class="container">
 
 					{{ content }}
-			
+					<a href="/contact.html">Contact us today to find out how we can help you.</a>
 				</div>
 			</section>
 		</div>
 
+
 		<footer class="container">
 			<p>
 			Agile Information Security is a limited company registered in England and Wales, number 08653113.<br>
-			Website design based on template by <a href="https://benubois.com">Ben Ubois</a>.<br>
 			All rights reserved.</p>
 		</footer>
 	</div>

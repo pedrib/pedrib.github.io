@@ -1,4 +1,4 @@
-permalink: /blog/:year/:month/:day/:title
+permalink: /services/:title
 pygments: true
 markdown: rdiscount
 exclude:

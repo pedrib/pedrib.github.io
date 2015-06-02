@@ -3,18 +3,12 @@ layout: default
 title: About
 ---
 
-## About Ben
+<p align="center"><img src="img/agile.png"/></p>
 
-<img src="http://www.gravatar.com/avatar/b33367f25f1fe9f74ac257428580df25.png?s=160" class="callout" height="80" width="80" />
+Agile Information Security Limited was founded in 2003 to fulfill a gap in the market of penetration testing and information security consultancy services.
+At the moment the market is saturated with companies providing a various range of services which vary widely in quality. At Agile Information Security, we pride ourselves in delivering the best quality of service at a lower cost.
 
-I’m a web developer in San Francisco. I’m passionate about building websites, programming and tools-obsessed. I build [Feedbin][f], a simple, good-looking online RSS reader. I work at [Flickerbox, Inc.][fb]
+Although the company is based in the United Kingdom, we have provided services to clients in the United States, Portugal and India at truly competitive prices, without ever compromising on quality.
+We only employ the best hackers, either on a part or full time basis.
 
-Did I mention I’m obsessed with tools? [TextMate][tm] is the my favorite and I use it for just about everything I work on. This site is published using [Jekyll][jk] which “…is a blog-aware, static site generator in Ruby.” The [source for the site][src] and the site itself is hosted on GitHub.
-
-[tm]: http://macromates.com/
-[jk]: http://jekyllrb.com/
-[src]: http://github.com/benubois/benubois.github.com
-[va]: http://versionsapp.com/
-[sn]: http://www.simplenoteapp.com/
-[f]: https://feedbin.me
-[fb]: http://www.flickerbox.com
+Our target market are startups and small / medium enterprises (SME), but we also provide services to very large international companies.
