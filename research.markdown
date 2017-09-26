@@ -20,8 +20,8 @@ Since the foundation of Agile Information Security, our consultants have found o
 * X.Org server
 * Pimcore Content Management System				
 
-And many others. [The full list of vulnerabilities found by our consultants can be consulted from GitHub][osvdb].
-[osvdb]: https://github.com/pedrib/PoC/blob/master/tracking.csv
+And many others. [The full list of vulnerabilities found by our consultants can be consulted from GitHub][git].
+[git]: https://github.com/pedrib/PoC/blob/master/tracking.csv
 
 All these vulnerabilities were found using a [combination of hacking techniques on which we base our services on][serv].
 [serv]: /services.html
