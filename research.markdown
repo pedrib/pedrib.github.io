@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-Our consultants spend their free time looking for vulnerabilities in commercial and open source software. We provide this service free of charge to the companies involved, and assist them in fixing the vulnerabilities found.
+Our consultants spend their free time looking for vulnerabilities in commercial and open source software and firmware. We provide this service free of charge to the companies involved, and assist them in fixing the vulnerabilities found.
 
 Since the foundation of Agile Information Security, our consultants have found over 50 vulnerabilities in well known and widely used software such as:
 
@@ -20,8 +20,8 @@ Since the foundation of Agile Information Security, our consultants have found o
 * X.Org server
 * Pimcore Content Management System				
 
-And many others. [The full list of vulnerabilities found by our consultants can be consulted from OSVDB][osvdb].
-[osvdb]: http://osvdb.org/affiliations/2967-agile-information-security
+And many others. [The full list of vulnerabilities found by our consultants can be consulted from GitHub][osvdb].
+[osvdb]: https://github.com/pedrib/PoC/blob/master/tracking.csv
 
 All these vulnerabilities were found using a [combination of hacking techniques on which we base our services on][serv].
 [serv]: /services.html
