@@ -7,7 +7,8 @@ Our consultants spend their free time looking for vulnerabilities in commercial 
 
 Since the foundation of Agile Information Security, our consultants have found over 50 vulnerabilities in well known and widely used software such as:
 
-* Adobe Acrobar Reader
+* Several routers, switches and firewalls 
+* Adobe Acrobat Reader
 * SysAid Help Desk
 * Novell ZenWorks Configuration Management
 * Kaseya Virtual System Administrator
