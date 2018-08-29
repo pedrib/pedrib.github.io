@@ -1,5 +1,5 @@
 permalink: /services/:title
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 exclude:
 - public
