@@ -16,7 +16,7 @@ We have used our experience to help clients to reverse engineer:
 ### Legality
 
 Please note that due to the specialised nature of these services, some of them cannot be offered outside certain regions. For example, it is allowed to reverse engineer a product for interoperability purposes in the European Union and United States, but that might be illegal in other jurisdictions. Even in the US and EU, is it not legal to bypass Digital Rights Management protections in most cases.
-<br>
+
 Vulnerability research and exploit development services can only be offered to clients which are based in [NATO][nato] countries.
 
 [nato]: https://www.nato.int
