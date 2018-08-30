@@ -23,7 +23,7 @@ If you would like a more thorough and complete code review to find up to 100% of
 Employing similar techniques to the Black Box Penetration Test, our experienced consultants will probe, scan and exploit the target network or networks for security vulnerabilities, and deliver a report detailing what was found and how to fix it. This test is useful for companies that want to test a specific part of the network, such as for example an affiliate or branch network, or even to test their entire network.
 
 ### Red Teaming Penetration Test
-Our most advanced offering - two or more of our consultants will be "dropped" in a target network, having Administrator level access to a specific machine inside the network. From then on, they will attempt to hack the highest number possible of desktops, servers and applications, and attempt to get Domain Administrator level on the network, while attempting to bypass existing protections like a real hacker would.
+Our most advanced offering - two or more of our consultants will be "dropped" in a target network, having User or Administrator level access to a desktop system inside the network. From then on, they will attempt to hack the highest number possible of desktops, servers and applications, and attempt to get Domain Administrator level on the network, while attempting to bypass existing protections like a real hacker would.
 <br>This type of test is extremely useful to understand how resilient a company is to an intruder which is already inside the network - the ultimate test in resilience and cyber security.
 
 ### Fuzzing
