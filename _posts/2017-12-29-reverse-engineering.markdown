@@ -13,7 +13,8 @@ We have helped clients to reverse engineer:
 - An outdated application, for which there is no source code, so that the client can replace this legacy application with a newer middleware layer.
 - Third party code to discover and develop exploits for previously unknown (0 day) vulnerabilities.
 
-We have reverse engineered applications and products written in C, C++, Java, Python, Ruby, Go and several assembly languages such as x86, x64, ARM, MIPS, SH-4 and others.
+We have reverse engineered applications and products written in C, C++, C#, Java, Python, Ruby, Go, Rust and others. 
+Our consultants have ample experience reversing binary applications for which there is no source, only assembly code such as x86, x64, ARM, MIPS, SH-4 and others.
 
 ### Legality
 
