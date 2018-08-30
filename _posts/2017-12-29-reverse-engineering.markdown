@@ -7,11 +7,13 @@ Reverse Engineering (RE) is more of an art than science, so the saying goes. How
 
 ### Our Experience
 
-We have used our experience to help clients to reverse engineer:
+We have helped clients to reverse engineer:
 - A proprietary file format, so that their products can work with those files.
-- A product validation algorithm, to allow third party products to pass that validation as an original product would, enabling inter operation.
-- An outdated application, for which there is no source, so that the client can replace this legacy application with a newer, in house built middleware layer.
-- Third party code to discover and develop exploits for previously unknown vulnerabilities.
+- A product validation algorithm, to allow third party products to pass that validation as an original product would, enabling interoperation.
+- An outdated application, for which there is no source code, so that the client can replace this legacy application with a newer middleware layer.
+- Third party code to discover and develop exploits for previously unknown (0 day) vulnerabilities.
+
+We have reverse engineered applications and products written in C, C++, Java, Python, Ruby, Go and several assembly languages such as x86, x64, ARM, MIPS, SH-4 and others.
 
 ### Legality
 
