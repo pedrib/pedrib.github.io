@@ -5,8 +5,9 @@ title: About
 
 <p align="center"><img src="img/agile.png" width="222" height="222" ></p>
 
-Agile Information Security Limited was founded in 2013 to fulfil a gap in the market of penetration testing and cyber security consultancy services. At the moment the market is saturated with companies providing services at a high price but which vary widely in quality. At Agile Information Security, we pride ourselves on delivering the best quality of service using highly skilled consultants which are renowned worldwide in their fields of expertise.
+Agile Information Security is a cyber security company that hacks software, hardware, networks and web sites of our customers, at their request, in order to uncover security vulnerabilities that can be exploited by a malicious hacker. We also analyse malware, perform incident response and forensic investigations, reverse engineer hidden algorithms, monitor networks and design cyber security systems for a variety of clients.
 
-Although our company is headquartered in London, United Kingdom, we regularly provide services to clients based in the United States, Germany, Switzerland, Austria, Portugal, China, India, Thailand, Bahrain, Saudi Arabia and Israel at truly competitive prices while delivering world-class quality. Our target market are start-ups, small / medium enterprises (SME), financial and technology companies, however we also service very large international companies in other sectors.
+In addition to our professional services, Agile Information Security provides technical hands-on security courses in various specialist fields within cyber security. 
+We also perform detailed analysis on security mechanisms of various hardware and software products that is responsibly shared with manufacturers and made public regularly to further advance cyber security research.
 
-Agile Information Security only employs the best cyber security consultants, either on a part or full time basis. All our consultants are fully vetted, and the Director(s) of Agile Information Security only employ people they know personally.
+Founded in 2013, headquartered in London and with offices in Portugal and Thailand, Agile Information Security provides affordable and superior quality services compared to its  mainstream competitors. We have clients in three continents, from start-ups to international banks and large multi national companies across all markets.
