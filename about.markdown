@@ -9,5 +9,6 @@ Agile Information Security is a cyber security company that hacks software, hard
 
 In addition to our professional services, Agile Information Security provides technical hands-on security courses in various specialist fields within cyber security. 
 We also perform detailed analysis on security mechanisms of various hardware and software products that is responsibly shared with manufacturers and made public regularly to further advance cyber security research.
+Our consultants have earned a number of globally recognised certificates, such as CISSP and OSCP, and are qualified to perform ISO 27001 audits, gap analysis and certifications.
 
 Founded in 2013, headquartered in London and with offices in Portugal and Thailand, Agile Information Security provides affordable and superior quality services compared to its  mainstream competitors. We have clients in three continents, from start-ups to international banks and large multi national companies across all markets.
