@@ -3,9 +3,10 @@ layout: default
 title: Research
 ---
 
-Our consultants spend a lot of their time looking for vulnerabilities in commercial software, open source software, hardware and firmware. We provide this service free of charge to the companies involved, and assist them in fixing the vulnerabilities found.
+Our consultants spend a lot of their time looking for vulnerabilities in commercial software, open source software, hardware and firmware. We provide this service free of charge to the companies involved, and assist them with fixing the vulnerabilities found if they so require. 
+All vulnerability disclosures are handled in a responsible way in above and beyond industry standards, giving ample time to the companies involved to fix these flaws.
 
-Since the founding of Agile Information Security, our consultants have found and make public over 200 vulnerabilities in well known and widely used software such as:
+Since the founding of Agile Information Security, our consultants have made public over 200 vulnerabilities in well known and widely used software such as:
 
 * Several enterprise and consumer routers, switches and firewalls from Netgear, Dlink, Asus and others
 * Various SCADA / Industrial Control Software products
