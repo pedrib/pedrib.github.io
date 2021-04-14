@@ -1,0 +1,5 @@
+permalink: /services/:title
+highlighter: rouge
+markdown: kramdown
+exclude:
+- public

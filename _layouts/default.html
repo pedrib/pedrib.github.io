@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Agile Information Security | {{ page.title }}</title>
+	<link rel="stylesheet" href="/css/master.css?{{ site.time | date: "%Y%m%d%H%M%S" }}" />
+	<script src="/js/master.js?{{ site.time | date: "%Y%m%d%H%M%S" }}"></script>
+	<script type="text/javascript">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-63676978-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+	<header>
+		<div class="container">
+			<p id="logo"><a onmouseover="this.innerHTML = 'Enabling secure digital business.'" onmouseout="this.innerHTML = 'Agile Information Security'" href="/main.html">Agile Information Security</a></p>
+			<nav>
+				<ul class="clearfix">
+					<li{% if page.title == 'Contact' %} class="selected"{% endif %}>
+						<a href="/contact.html">Contact</a></li>
+					<!-- <li{% if page.title == 'Blog' %} class="selected"{% endif %}>
+						<a href="/blog/main.html">Blog</a></li> -->
+					<li{% if page.title == 'Research' %} class="selected"{% endif %}>
+						<a href="/research.html">Research</a></li>
+					<li{% if page.title == 'Services' %} class="selected"{% endif %}>
+						<a href="/services.html">Services</a></li>
+					<li{% if page.title == 'About' %} class="selected"{% endif %}>
+						<a href="/about.html">About</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+	
+	<div class="wrap">
+
+		<div class="site-wrap">
+			<section id="content-wrap">
+				<div class="container">
+
+					{{ content }}
+					<a href="/contact.html">Contact us today to find out how we can help you.</a>
+				</div>
+			</section>
+		</div>
+
+
+		<footer class="container">
+			<p>
+			Agile Information Security is a limited company registered in England and Wales, number 08653113.<br>
+			All rights reserved.</p>
+		</footer>
+	</div>
+</body>
+</html>
